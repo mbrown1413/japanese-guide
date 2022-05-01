@@ -15,7 +15,7 @@ native audiences. It should be useful for people at any stage of their
 learning, from absolute beginner to intermediate.
 
 My personal focus has been on reading, but I've tried to make the guide
-generic enough that it applies if you're learning to watch anime, or learinng to
+generic enough that it applies if you're learning to watch anime, or learning to
 speak.
 
 
@@ -45,8 +45,9 @@ to learn.
 characters, but at this stage you don't need to be able to recall them with
 100% accuracy. Being able to read hiragana quickly and accurately will come
 over time, after you actually _use_ it for a while, and you'll be using it a
-lot. You should be somewhat familiar with katakana too, but is less important
-at this stage since it isn't essential for moving on to learning grammar.
+lot. You should be somewhat familiar with katakana too, but it is less
+important at this stage since it isn't essential for moving on to learning
+grammar.
 
 **How to learn** - There are tons of guides out there with mnemonics. Just pick
 one that clicks with you.
@@ -57,13 +58,13 @@ one that clicks with you.
     * [Hiragana Table](https://en.wikipedia.org/wiki/Hiragana#/media/File:Table_hiragana.svg) from the [Wikipedia article on Hiragana](https://en.wikipedia.org/wiki/Hiragana)
     * [Katakana Table](https://en.wikipedia.org/wiki/Katakana#/media/File:Table_katakana.svg) from the [Wikipedia article on Katakana](https://en.wikipedia.org/wiki/Katakana)
 * Use mnemonics
-* Learning to write the hiragana and Katakana can help you remember them very well.
+* Learning to write hiragana and katakana can help you remember them very well.
 
 ### Pronunciation
 
 While a lot of sounds in Japanese are the same as English, some are subtly
 different. It's much better if you learn the differences early so you don't
-build bad habbits.
+build bad habits.
 
 **Romaji** - Avoid romaji when possible. Romaji is when the phonetic (hiragana
 / katakana) characters are converted into English letters (for example:
@@ -91,8 +92,8 @@ it's okay to type Japanese on a keyboard with English letters. If you type on a
 phone, you should at least try the "flick" input method. It has a higher
 learning curve, but it can be easier when you get used to it.
 
-**What about Writing?** - You probably don't need learn writing with pencil and
-paper. This is because unless you have a specific interest in something, like
+**What about Writing?** - You probably don't need to learn writing with pencil
+and paper, since unless you have a specific interest in something, like
 calligraphy, you probably won't ever need to write.
 
 
@@ -107,9 +108,66 @@ want, as long as you learn the very basics of grammar. However, if you don't
 learn enough grammar now, your immersion experience will be too painful to get
 through, looking up every single thing as you come across it.
 
+### Grammar
+
+Japanese grammar is very logical. There are exceptions, but unlike English
+there are very few of them. The difficult part is how different Japanese
+grammar is from English.
+
+Textbooks and courses can be difficult to get through. Try to understand the
+grammar explanations but don't worry about having a 100% understanding, and
+don't worry about getting the exercises perfect. You'll solidify your grammar
+knowledge later when you get a lot of exposure to it through immersion. Expect
+to come back to the grammar explanations later in your journey before they make
+complete sense.
+
+**How to learn** - Choose a course or textbook and get started. Try a few of
+them first to see what clicks. Personally, I recommend using both Cure Dolly
+and Bunpro. Bunpro also pairs well with other online or textbook courses. I've
+used Genki, but it's hard for me to hold my attention on a textbook.
+* Online
+    * [Cure Dolly: Japanese from Scratch](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
+        * This is my recommendation on where to start. Her explanations are logical and easy to follow.
+        * Some people hate her voice. Just turn on subtitles so you can understand it. Her explanations are really worth it.
+    * [Bunpro](https://bunpro.jp/) - An SRS for grammar. You learn grammar points
+        then you're quizzed by fill in the blank sentences.
+        * I recommend going in "Bunpro Grammar Order" rather than choosing a textbook
+            "path". This order is laid out logically and gradually increases the
+            difficulty of the sentences. They have good explanations of grammar
+            points you should read through and understand before completing lessons.
+    * [Imabi](https://www.imabi.net/tableofcontents.htm) - Free online course.
+      Has a reputation for being dense, but some people really like it.
+* Textbooks
+    * [Genki](https://usa.kinokuniya.com/learning-japanese/genki) - The most popular Japanese textbook.
+        * The biggest criticism is that it teaches polite verb forms first. If
+        you're looking to read manga, you'll be using plain verb forms a lot
+        more, so you'll either need to finish around chapter 8/9, or learn these
+        on your own before reading.
+        * [Tokini Andy](https://www.youtube.com/c/ToKiniAndy) - Videos following along Genki volume 1 and 2.
+    * [Toriba](https://www.9640.jp/nihongo/en/detail/?870) - Another popular textbook.
+        * I haven't used this, but I've seen it highly recommended.
+
+**How much to learn** - Before moving on to immersion, I recommend you:
+* Learn basic grammar - One of the following will do:
+    * Cure Dolly - Finish through lesson 22, or
+    * Genki - Finish through chapter 8/9.
+* Specifically, you should know:
+    * だ and です (copula / "is")
+    * Particles: が, を, に, は, も, で, の (posession)
+    * Verb て-form (connective)
+    * Verb た-form (past tense)
+    * Both plain and polite verb forms
+    * な and い adjectives
+    * Negative verbs and adjectives
+    * Using と for quoting (with 思う, 言う, etc.)
+    * て + いる (continuing actions)
+    * An idea of how to form simple sentences
+
 ### Kanji
 
-Kanji are not hard to learn, there are just a lot of them.
+Kanji are not hard to learn, there are just a lot of them. You should make a
+habit of learning kanji early on, then keep learning more at a slow and steady
+pace.
 
 **What to learn for each kanji**
 * What it looks like (you should be able to recognize it when you see it)
@@ -138,64 +196,8 @@ into the immersion phase, since any reading you start out with will have
 _furigana_, small katakana letters above the kanji telling you how to pronounce
 them.
 
-### Grammar
 
-Japanese grammar is very logical. There are exceptions, but unlike English
-there are very few of them. The difficult part is how different Japanese
-grammar is from English.
-
-Textbooks and courses can be difficult to get through. Try to understand the
-grammar explanations but don't worry about having a 100% understanding, and
-don't worry about getting the exercises perfect. You'll solidify your grammar
-knowledge later when you get a lot of exposure to it through immersion. Expect
-to come back to the grammar explanations later in your journey before they make
-complete sense.
-
-**How to learn** - Choose a course or textbook and get started. Try a few of
-them first to see what clicks. Personally, I recommend using both Cure Dolly
-and Bunpro. Bunpro also pairs well with other online or textbook courses. I've
-used Genki, but textbooks don't hold my attention.
-* Online
-    * [Cure Dolly: Japanese from Scratch](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
-        * This is my recommendation on where to start. Her explanations are logical and easy to follow.
-        * Some people hate her voice. Just turn on subtitles so you can understand it. Her explanations are really worth it.
-    * [Bunpro](https://bunpro.jp/) - An SRS for grammar. You learn grammar points
-        then you're quizzed by fill in the blank sentences.
-        * I recommend going in "Bunpro Grammar Order" rather than choosing a textbook
-            "path". Bunpro order is pretty good, and gradually increases the
-            difficulty of the sentences. They have good explanations of grammar
-            points you should read through and understand before completing the
-            lesson.
-    * [Imabi](https://www.imabi.net/tableofcontents.htm) - Free online course.
-      Has a reputation for being dense, but some people really like it.
-* Textbooks
-    * [Genki](https://usa.kinokuniya.com/learning-japanese/genki) - The most popular Japanese textbook.
-        * The biggest criticism is that it teaches polite verb forms first. If
-        you're looking to read manga, you'll be using plain verb forms a lot
-        more, so you'll either need to finish around chapter 8/9, or learn these
-        on your own before reading.
-        * [Tokini Andy](https://www.youtube.com/c/ToKiniAndy) - Videos following along Genki volume 1 and 2.
-    * [Toriba](https://www.9640.jp/nihongo/en/detail/?870) - Another popular textbook.
-        * I haven't used this, but I've seen it highly recommended.
-
-**How much to learn** - Before moving on to immersion, I recommend you:
-* Learn basic grammar - One of the following will do:
-    * Cure Dolly - Finish through lesson 22, or
-    * Genki - Finish through chapter 8/9.
-* Specifically, before moving on you should know:
-    * だ and です (copula / "is")
-    * Particles: が, を, に, は, も, で, の (posession)
-    * Verb て-form (connective)
-    * Verb た-form (past tense)
-    * Both plain and polite verb forms
-    * な vs い adjectives
-    * Negative verbs and adjectives
-    * Using と for quoting (with 思う, 言う, etc.)
-    * て + いる (continuing actions)
-    * An idea of how to form simple sentences
-
-
-## Phase 3: Immersion
+## Phase 3: Starting Immersion
 
 **Goal**: Start enjoying native material!! (but also keep studying kanji,
 grammar, and vocabulary)
@@ -223,9 +225,8 @@ with basic grammar and I was reading a lot faster.
 Choose something that you enjoy. Remember how I said it will be difficult at
 first? You won't get through it if you don't choose something you enjoy. With
 that said, you'll need something simple enough to start out.
-
-
 * [Absolute Beginner Book Club](https://community.wanikani.com/t/absolute-beginners-book-club-currently-reading-%E3%83%8F%E3%83%94%E3%83%8D%E3%82%B9%E3%83%BBhappiness-next-prefecture-stories/34698) - I highly recommend this to start out. You'll get people to answer even the most basic questions you have when reading. It's a great community of people who choose books for people who have learned some grammar but have never read native material before.
+* See the [Material](material.md) page for other suggestions.
 
 ### Tolerating Ambiguity
 
@@ -240,8 +241,11 @@ repeated exposure.
 * [ichi.moe](https://ichi.moe/) - Type in full sentences, and this will parse the Japanese into words and particles.
 * [TheJadedNetwork SFX Dictionary](http://thejadednetwork.com/sfx/) - Look up sound effects
 
-**Grammar**
+**Grammar** (online)
 * [Bunpro](https://bunpro.jp/) - Even if you don't use this for SRS, you can look up grammar points here for free.
+* Usually just searching "grammar + &lt;something&gt;" works .
+
+**Grammar** (physical books)
 * [Dictionary of Japanese Particles](https://www.thejapanshop.com/products/a-handbook-of-japanese-grammar-patterns-for-teachers-and-learners) - Useful reference for particles when starting out.
 * [A Handbook of Japanese Grammar Patterns](https://www.thejapanshop.com/products/a-handbook-of-japanese-grammar-patterns-for-teachers-and-learners) - Lots of good usage examples and very good explanations.
     * Originally a Japanese grammar book that was translated into English. Make sure to get the English version!
@@ -280,7 +284,7 @@ grammar and kanji, and you keep immersing yourself.
 ### Leveling Up
 
 TODO:
-* Continuing the same series of books, anime, etc. will become easier as you get used to the words and patterns the auther uses. Switch to another series and you'll have to get used to a different style. That's how you learn though!
+* Continuing the same series of books, anime, etc. will become easier as you get used to the words and patterns the author uses. Switch to another series and you'll have to get used to a different style. That's how you learn though!
 * Once you've consumed enough native material that you're comfortable with it, you should try something either more difficult (e.g. the beginner book club instead of the absolute beginner book club), or start focusing on a different area (e.g. speaking instead of reading).
 * Different skills: reading, listening, speaking, writing. You'll get good at what you practice.
 * If you want to start speaking, you need somebody (preferably a teacher) who will actually correct your mistakes.
@@ -294,10 +298,12 @@ TODO:
 ### Intermediate plateau
 
 When you've learned all of the basics, you may feel like your progress slows.
-You've learned all the easy stuff, and now you know just how much there is to
-learn. The important thing to realize is that you are still learning as long as
-you're putting the effort in, it's just harder to see progress.
+You've learned all the easy stuff, and now you know just how much more there is
+to learn. The important thing to realize is that you are still learning as long
+as you're putting the effort in, it's just harder to see progress. Your mind
+will slowly start to recognize patterns as you come across them again and
+again.
 
 Using WaniKani and Bunpro can help you look back on your progress to see how
 much you've learned. If you use SRS right, you'll start recognizing kanji,
-words, and grammar points in your reading.
+words, and grammar points in your reading, which always feels rewarding to me.
