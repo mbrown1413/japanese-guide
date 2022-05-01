@@ -1,0 +1,40 @@
+site_name: MB's Japanese Guide
+theme:
+    name: mkdocs
+    custom_dir: custom_theme/
+    nav_style: dark
+    navigation_depth: 3
+extra_css:
+    - style.css
+markdown_extensions:  # https://python-markdown.github.io/extensions/
+    - mdx_breakless_lists
+    - mdx_linkify.mdx_linkify
+    - mdx_truly_sane_lists:
+        nested_indent: 4
+    - markdown_link_attr_modifier:
+        new_tab: "external_only"
+    - customblocks
+    #- furigana_markdown.furigana
+    #- attr_list
+    #- def_list
+plugins:
+    - search
+    - last_updated_header
+    - macros
+    #- search:
+    #    lang:
+    #        - en
+    #        - ja
+nav:
+    - guide.md
+    - resources.md
+    - material.md
+    - advice.md
+
+# Variables available to macros
+extra:
+    taglines:
+        guide: A guide for learning Japanese starting from absolutely nothing.
+        resources: A collection of the Japanese learning tools, and my advice on how to use them.
+        material: How to find native material for reading, listening, etc.
+        advice: General advice for learning.

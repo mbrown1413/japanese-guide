@@ -1,0 +1,201 @@
+
+/*******************************/
+/***** Mkdocs Theme Tweaks *****/
+/*******************************/
+
+#toc-collapse > ul {
+    background-color: white;
+}
+
+/* Hanging indent */
+#toc-collapse li[data-level="2"] {
+    padding-left: 2em;
+    text-indent: -2em;
+}
+#toc-collapse li[data-level="2"] ul {
+    text-indent: 0;
+    /* Usually margin: 1em, but we've already have text-indent from parent. */
+    margin-left: -1em;
+}
+
+/* Striped TOC */
+#toc-collapse li[data-level="2"]:nth-child(even) {
+    background-color: #dadde0;
+}
+#toc-collapse li[data-level="2"]:nth-child(odd) {
+    background-color: #e9ecef;
+}
+
+/**********************/
+/***** Blockquote *****/
+/**********************/
+
+blockquote {
+    background-color: #f1f1f1;
+    padding: 1em;
+    border-radius: 1em;
+}
+blockquote p:first-child {
+    margin-top: 0;
+}
+blockquote cite {
+    margin-left: 2em;
+}
+blockquote cite:before {
+    content: "—";
+}
+
+
+/*******************/
+/***** Content *****/
+/*******************/
+
+p {
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+mark {
+    background-color: #FF0;
+}
+
+h2, .h2 {
+    margin-top: 2rem;
+    color: #000;
+}
+
+h3, .h3 {
+    margin-top: 1.5rem;
+    font-size: 1.75rem;
+    color: #777 !important;
+}
+
+h4, .h4 {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+pre, code {
+    /* Default is smaller text, but we have small kanji in there!  */
+    font-size: 1em !important;
+}
+
+/* Ruby tags for furigana */
+rt {
+    font-size: 11px;
+}
+
+/* Show line on second-level headers in toc to make it more readable. */
+#toc-collapse ul ul ul {
+    border-left: 1px black solid;
+}
+
+/**********************/
+/***** Div Blocks *****/
+/**********************/
+
+div.reading,
+div.rule,
+div.example,
+div.todo,
+div.spoiler
+{
+    width: 100%;
+    border: solid 1px #e1e4e5;
+    color: #333;
+    background: #f8f8f8;
+    padding: 0.5em;
+}
+div.reading p:first-child,
+div.rule p:first-child,
+div.example p:first-child,
+div.todo p:first-child,
+div.spoiler p:first-child,
+div.def p:first-child
+{
+    margin-top: 0;
+}
+div.reading p:last-child, div.reading ul:last-child,
+div.rule p:last-child, div.rule ul:last-child,
+div.example p:last-child, div.example ul:last-child,
+div.todo p:last-child, div.todo ul:last-child,
+div.spoiler p:last-child, div.spoiler ul:last-child,
+div.def p:last-child, div.def ul:last-child
+{
+    margin-bottom: 0;
+}
+
+div.todo {
+    border: solid 1px red;
+}
+
+div.rule {
+    border: solid 1px green;
+}
+div.rule:before {
+    content: "Rule";
+    float: right;
+    color: green;
+    margin-right: 1em;
+}
+
+div.def {
+    border: solid 1px green;
+    padding: 0.5em;
+}
+div.def:before {
+    content: "Definitions";
+    float: right;
+    color: green;
+    margin-right: 1em;
+}
+
+div.example:before {
+    content: "Example";
+    float: right;
+    margin-right: 1em;
+    color: #888;
+}
+
+div.reading:before {
+    content: "Reading";
+    float: right;
+    margin-right: 1em;
+    color: #33A;
+}
+
+/* Spoiler */
+div.spoiler {
+    border: solid 1px #e1e4e5;
+    /* color: #f8f8f8; */
+    background: #f8f8f8;
+    padding: 0.5em;
+}
+div.spoiler * {
+    /* Blur any element inside, since anything will be at least wrapped in a
+     * <p>, and we don't want to blur the border of the spoiler div itself. */
+    filter: blur(4px);
+    transition: filter 0.15s;
+}
+div.spoiler:before {
+    content: "Spoiler!";
+    color: red;
+    float: right;
+    margin-right: 1em;
+}
+div.spoiler p:last-child {
+    margin-bottom: 0;
+}
+div.spoiler:hover * {
+    /* color: #333; */
+    filter: blur(0);
+}
+
+/* Similar spoiler tag for spans */
+span.spoiler {
+    filter: blur(4px);
+}
+span.spoiler:hover {
+    filter: blur(0);
+}

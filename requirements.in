@@ -1,0 +1,13 @@
+mkdocs>=1.3.0
+
+# Python-Markdown plugins
+# [3rd-party](https://github.com/Python-Markdown/markdown/wiki/Third-Party-Extensions)
+mdx-breakless-lists  # https://github.com/adamb70/mdx-breakless-lists
+mdx_linkify  # https://github.com/daGrevis/mdx_linkify
+mdx_truly_sane_lists  # https://github.com/radude/mdx_truly_sane_lists
+markdown-link-attr-modifier  # https://github.com/Phuker/markdown_link_attr_modifier
+markdown-customblocks  # https://github.com/vokimon/markdown-customblocks
+mkdocs-macros-plugin  # https://mkdocs-macros-plugin.readthedocs.io/
+
+#markdown-checklist  # https://github.com/FND/markdown-checklist
+#mdx-custom-span-class  # https://github.com/wilhelmer/mdx_custom_span_class

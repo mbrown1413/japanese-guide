@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+last_updated_header = plugins.last_updated_header:LastUpdatedHeaderPlugin
