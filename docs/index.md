@@ -39,22 +39,22 @@ Here you'll find my personal recommendantions for how to learn Japanese.
 <section>
 
 <article>
-    <h2><a href="/guide">Step-by-step Guide</a></h2>
+    <h2><a href="guide">Step-by-step Guide</a></h2>
     {{ taglines.guide }}
 </article>
 
 <article>
-    <h2><a href="/resources">Resources</a></h2>
+    <h2><a href="resources">Resources</a></h2>
     {{ taglines.resources }}
 </article>
 
 <article>
-    <h2><a href="/material">Finding Material</a></h2>
+    <h2><a href="material">Finding Material</a></h2>
     {{ taglines.material }}
 </article>
 
 <article>
-    <h2><a href="/advice">Advice</a></h2>
+    <h2><a href="advice">Advice</a></h2>
     {{ taglines.advice }}
 </article>
 

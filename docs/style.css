@@ -26,6 +26,11 @@
     background-color: #e9ecef;
 }
 
+/* Prevent nav links from changing size when active. */
+.nav-link {
+    border-right: 1px solid transparent;
+}
+
 /**********************/
 /***** Blockquote *****/
 /**********************/

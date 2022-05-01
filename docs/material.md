@@ -41,6 +41,8 @@ attention.
     * Also see: [WK thread about Bok of Manga](https://community.wanikani.com/t/box-of-manga/48010/41)
 
 TODO: Buying ebooks
+* [Guide for Bookwalker](https://community.wanikani.com/t/xr/51962/43)
+* [Buying from Amazon.jp](https://community.wanikani.com/t/x/10603/151)
 
 
 ## Listening
@@ -62,3 +64,10 @@ Anime
 * [Project ears](https://community.bunpro.jp/t/project-ears-passively-increase-your-listening-skill/40284) - Source of audio from many popular anime and movies
 * [Animelon](https://animelon.com/) - Watch anime online with subtitles. Good interface for showing and navigating subs, including word lookup and vocab quizes.
     * [Flying Witch](https://animelon.com/series/Flying%20Witch) - Good for beginner listening
+
+
+## Speaking
+
+Shadowing courses
+* [Miku Real Japanese](https://mikurealjapanese.mykajabi.com/) - Paid
+* [Japanese Grammar Exercise with Instantaneous Composition Method](https://www.wasabi-jpn.com/japanese-lessons/japanese-grammar-with-instantaneous-composition-method/) - Free
